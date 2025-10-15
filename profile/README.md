@@ -3,8 +3,7 @@
 <img align="left" src="https://github.com/SpaceUY/.github/blob/main/raw/main/assets/githubPortada.png#gh-light-mode-only" width="100%"/>
 <img align="left" src="https://github.com/SpaceUY/.github/blob/main/raw/main/assets/githubPortada.png#gh-dark-mode-only" width="100%"/>
 
-<div style="clear: both; margin-bottom: 16px;"></div>
-
+** **
 We build cutting-edge technology for the next generation of applications.
 Our mission is simple: empower clients by transforming their ideas into extraordinary products.
 
