@@ -1,5 +1,5 @@
-<img align="left" src="https://github.com/defi-wonderland/.github/raw/main/assets/github portada.png#gh-light-mode-only" width="400">
-<img align="left" src="https://github.com/defi-wonderland/.github/raw/main/assets/github portada.png#gh-dark-mode-only" width="400">
+<img align="left" src="https://github.com/defi-wonderland/.github/raw/main/assets/githubPortada.png#gh-light-mode-only" width="400">
+<img align="left" src="https://github.com/defi-wonderland/.github/raw/main/assets/githubPortada.png#gh-dark-mode-only" width="400">
 
 We build cutting‑edge tech for the next generation of applications.
 We help clients design, architect and implement blockchain protocols, smart contracts, DeFi and NFT platforms, AI agents and traditional apps.
